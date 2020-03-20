@@ -1,0 +1,1 @@
+# Visual-Friendly-QR-Code
