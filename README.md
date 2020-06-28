@@ -36,7 +36,7 @@ This project is based on
 * https://github.com/pytorch/tutorials/blob/master/advanced_source/neural_style_tutorial.py
 ## Contact
 
-This repo is currently maintained by Tong WU (wutong16@mails.tsinghua.edu.cn)
+This repo is currently maintained by Tong WU (wutong16.thu@gmail.com)
 
 * The code is not fully tested and may contain unknown bugs, feel free to contact with us if you encounter with any issues!
 * We have tested the readability of the generated QR code using Alipay.
